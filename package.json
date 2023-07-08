@@ -1,0 +1,13 @@
+{
+	"name": "8)-portfolio",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"sass": "sass --watch --style=compressed Src/Sass/index.scss Src/Css/bundle.css"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}

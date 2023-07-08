@@ -1,0 +1,55 @@
+@media (max-width: 1280px) {
+	.container {
+		padding: 0;
+	}
+
+	.boxes {
+		gap: 0;
+	}
+}
+
+@media (max-width: 1210px) {
+	.Skills {
+		flex-wrap: wrap;
+		gap: 1rem;
+	}
+
+	.projects__box {
+		flex-wrap: wrap;
+	}
+
+	.projects__img {
+		width: 100%;
+	}
+
+	.projects__data {
+		gap: 1rem;
+	}
+
+	.projects__paragraph {
+		width: 100%;
+	}
+}
+
+@media (max-width: 800px) {
+	.boxes {
+		flex-wrap: wrap;
+	}
+}
+
+@media (max-width: 430px) {
+	.frontEnd,
+	.design {
+		width: auto;
+	}
+
+	.frontEnd__skills {
+		font-size: 1rem;
+	}
+
+	.frontEnd__container,
+	.design__container {
+		width: auto;
+		flex-direction: column;
+	}
+}
