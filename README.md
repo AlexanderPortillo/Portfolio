@@ -33,8 +33,8 @@
 
 ## Overview
 
-![screenshot](Src/Img/Screenshot%20Home%20page.png)
-![screenshot](Src/Img/Screenshot%20Home%20page%20mobile.png)
+![screenshot](Src/Img/Screenshot%20Portfolio.png)
+![screenshot](Src/Img/Screenshot%20Portfolio%20mobile.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
